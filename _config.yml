@@ -9,7 +9,7 @@ url:
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: rouge
+highlighter: pygments
 sass:
   sass_dir: _sass
   style: compressed
@@ -30,7 +30,7 @@ owner:
   avatar: bio-photo.jpg
   bio: "Describe your self."
   email: 
-  disqus-shortname: karthikchintala
+  disqus-shortname: 
   twitter: #username
   facebook: #username
   google:
