@@ -2,14 +2,14 @@
 
 title:            Site Title
 locale:           en_US
-url:    http://karthikchintalas.github.io          
+url:              
 
 
 # Jekyll configuration
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: route
+highlighter: pygments
 sass:
   sass_dir: _sass
   style: compressed
@@ -26,12 +26,12 @@ kramdown:
 
 # Site owner
 owner:
-  name: Karthik Chintala
+  name: Your Name
   avatar: bio-photo.jpg
-  bio: "bio goes here"
+  bio: "Describe your self."
   email: 
   disqus-shortname: 
-  twitter: #nani938
+  twitter: #username
   facebook: #username
   google:
     plus: #username
