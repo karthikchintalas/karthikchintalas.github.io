@@ -9,7 +9,7 @@ url:    http://karthikchintalas.github.io
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: rouge
+highlighter: route
 sass:
   sass_dir: _sass
   style: compressed
